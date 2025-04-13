@@ -11,8 +11,6 @@ fastapi[all]
 sqlalchemy
 psycopg2-binary
 requests
-os
-datetime
 typing
 sqlmodel
 routers
