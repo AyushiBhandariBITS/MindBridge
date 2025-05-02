@@ -1,0 +1,304 @@
+{
+    "resources": [
+      {
+        "country": "India",
+        "hotlines": [
+          {
+            "name": "iCall",
+            "number": "+91-9152987821",
+            "available_hours": "24/7",
+            "language_support": ["Hindi", "English"]
+          },
+          {
+            "name": "Vandrevala Foundation Helpline",
+            "number": "1860 266 2345",
+            "available_hours": "24/7",
+            "language_support": ["Multiple Indian Languages"]
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "YourDOST",
+            "url": "https://yourdost.com",
+            "format": "Online Chat & Forums"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Mpower - The Centre",
+            "location": "Mumbai",
+            "website": "https://mpowerminds.com"
+          }
+        ]
+      },{
+        "country": "Canada",
+        "hotlines": [
+          {
+            "name": "Crisis Services Canada",
+            "number": "1-833-456-4566",
+            "available_hours": "24/7",
+            "language_support": "English, French"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Canadian Mental Health Association",
+            "url": "https://cmha.ca",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Talkspace",
+            "location": "Online",
+            "website": "https://www.talkspace.com"
+          }
+        ]
+      },
+      {
+        "country": "United Kingdom",
+        "hotlines": [
+          {
+            "name": "Samaritans",
+            "number": "116 123",
+            "available_hours": "24/7",
+            "language_support": "English"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Mind",
+            "url": "https://www.mind.org.uk",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "BetterHelp",
+            "location": "Online",
+            "website": "https://www.betterhelp.com"
+          }
+        ]
+      },
+      {
+        "country": "Australia",
+        "hotlines": [
+          {
+            "name": "Lifeline",
+            "number": "13 11 14",
+            "available_hours": "24/7",
+            "language_support": "English"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Beyond Blue",
+            "url": "https://www.beyondblue.org.au",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Psychology Today",
+            "location": "Online, Local",
+            "website": "https://www.psychologytoday.com"
+          }
+        ]
+      }, {
+        "country": "Germany",
+        "hotlines": [
+          {
+            "name": "Telefonseelsorge",
+            "number": "0800 111 0 111",
+            "available_hours": "24/7",
+            "language_support": "German"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Deutsche Gesellschaft für Psychologie",
+            "url": "https://www.dgps.de",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Therapists Near You",
+            "location": "Local",
+            "website": "https://www.therapistsnearyou.com"
+          }
+        ]
+      },
+      {
+        "country": "France",
+        "hotlines": [
+          {
+            "name": "SOS Suicide",
+            "number": "01 45 39 40 00",
+            "available_hours": "24/7",
+            "language_support": ["French"]
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Nightline France",
+            "url": "https://www.nightline.fr",
+            "format": "Phone and chat for students"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "PsyFrance",
+            "location": "Paris",
+            "website": "https://psyfrance.com"
+          }
+        ]
+      },
+      {
+        "country": "Japan",
+        "hotlines": [
+          {
+            "name": "TELL Japan",
+            "number": "03-5774-0992",
+            "available_hours": "24/7",
+            "language_support": "English, Japanese"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Mental Health Japan",
+            "url": "https://www.mhj.gr.jp",
+            "format": "Online"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Therapist Finder",
+            "location": "Local",
+            "website": "https://www.therapistfinder.com"
+          }
+        ]
+      },
+      {
+        "country": "South Korea",
+        "hotlines": [
+          {
+            "name": "Suicide Prevention Center",
+            "number": "1393",
+            "available_hours": "24/7",
+            "language_support": "Korean, English"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "Mental Health Korea",
+            "url": "https://www.mentalhealthkorea.org",
+            "format": "Online"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Therapists in Seoul",
+            "location": "Local",
+            "website": "https://www.therapyinseoul.com"
+          }
+        ]
+      },
+      {
+        "country": "Brazil",
+        "hotlines": [
+          {
+            "name": "CVV (Centro de Valorização da Vida)",
+            "number": "188",
+            "available_hours": "24/7",
+            "language_support": "Portuguese"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "ABRATA (Associação Brasileira de Familiares, Amigos e Portadores de Transtornos Afetivos)",
+            "url": "https://www.abrata.org.br",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "Psicologia Viva",
+            "location": "Online",
+            "website": "https://www.psicologiaviva.com.br"
+          }
+        ]
+      },      {
+        "country": "USA",
+        "hotlines": [
+          {
+            "name": "988 Suicide & Crisis Lifeline",
+            "number": "988",
+            "available_hours": "24/7",
+            "language_support": ["English", "Spanish"]
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "NAMI Support Groups",
+            "url": "https://nami.org/Support-Education/Support-Groups",
+            "format": "Online and in-person"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "BetterHelp",
+            "location": "Online",
+            "website": "https://www.betterhelp.com"
+          }
+        ]
+      }
+    ,{
+        "country": "United Arab Emirates",
+        "hotlines": [
+          {
+            "name": "UAE Suicide Prevention",
+            "number": "800-5678",
+            "available_hours": "24/7",
+            "language_support": "Arabic, English"
+          },
+          {
+            "name": "Dubai Mental Health Support",
+            "number": "800-4673",
+            "available_hours": "24/7",
+            "language_support": "Arabic, English"
+          }
+        ],
+        "support_groups": [
+          {
+            "name": "The Mental Health Support Center",
+            "url": "https://www.doh.gov.ae/en/mental-health",
+            "format": "Online, Local (Dubai, Abu Dhabi)"
+          },
+          {
+            "name": "Al Jalila Foundation",
+            "url": "https://www.aljalilafoundation.ae",
+            "format": "Online, Local"
+          }
+        ],
+        "therapy_clinics": [
+          {
+            "name": "The Lighthouse Arabia",
+            "location": "Dubai",
+            "website": "https://www.lighthousearabia.com"
+          },
+          {
+            "name": "Balsam Clinic",
+            "location": "Abu Dhabi",
+            "website": "https://www.balsamclinic.ae"
+          },
+          {
+            "name": "American Center for Psychiatry and Neurology",
+            "location": "Abu Dhabi, Dubai",
+            "website": "https://www.acpnuae.com"
+          }
+        ]
+      }
+    ] 
+  }
+  
